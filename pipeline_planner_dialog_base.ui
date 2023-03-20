@@ -32,12 +32,12 @@
    </column>
    <column>
     <property name="text">
-     <string>New Column</string>
+     <string>ID</string>
     </property>
    </column>
    <column>
     <property name="text">
-     <string>ID</string>
+     <string>Status</string>
     </property>
    </column>
    <column>
